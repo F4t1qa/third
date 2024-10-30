@@ -1,7 +1,7 @@
 call npm i 
 call npm run build
 @echo off
-set folderPath=C:\Users\1\Documents\yyds
+set folderPath=C:\Users\Administrator\Desktop\second
 
 :: 删除文件夹中的文件
 del /S /Q %folderPath%\*.*
